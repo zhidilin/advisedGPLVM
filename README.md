@@ -1,7 +1,7 @@
 # auto-differentiable variational inference for SM-embedded RFF-LVM
 
 This repository contains the code and data used in the paper ["Preventing Model Collapse in Gaussian Process Latent Variable Models"](https://arxiv.org/abs/2404.01697) published at the 41st International Conference on Machine Learning (ICML 2024).
-- Y. Li[^*], Z. Lin[^*], F. Yin and M. M. Zhang, "Preventing Model Collapse in Gaussian Process Latent Variable Models," 2024 41st International Conference on Machine Learning (ICML), 2024.
+- Y. Li<sup>*</sup>, Z. Lin<sup>*</sup>, F. Yin and M. M. Zhang, "Preventing Model Collapse in Gaussian Process Latent Variable Models," 2024 41st International Conference on Machine Learning (ICML), 2024.
 
 ## Citation
 ```
@@ -10,7 +10,5 @@ This repository contains the code and data used in the paper ["Preventing Model 
   booktitle={International Conference on Machine Learning (ICML)},   
   title={Preventing Model Collapse in Gaussian Process Latent Variable Models},   
   year={2024},  
-  volume={},  
-  number={},  
 }
 ```
