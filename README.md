@@ -1,4 +1,16 @@
-1. Check the package requirements for the implementations
-2. cd experiments/
-3. python main.py
-4. python missing_imputation.py
+# auto-differentiable variational inference for SM-embedded RFF-LVM
+
+This repository contains the code and data used in the paper ["Preventing Model Collapse in Gaussian Process Latent Variable Models"](https://arxiv.org/abs/2404.01697) published at the 41st International Conference on Machine Learning (ICML 2024).
+- Y. Li[^*], Z. Lin[^*], F. Yin and M. M. Zhang, "Preventing Model Collapse in Gaussian Process Latent Variable Models," 2024 41st International Conference on Machine Learning (ICML), 2024.
+
+## Citation
+```
+@INPROCEEDINGS{li2024preventing,  
+  author={Li, Ying and Lin, Zhidi and Yin, Feng and Zhang, Michael Minyi},  
+  booktitle={International Conference on Machine Learning (ICML)},   
+  title={Preventing Model Collapse in Gaussian Process Latent Variable Models},   
+  year={2024},  
+  volume={},  
+  number={},  
+}
+```
